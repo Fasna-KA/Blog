@@ -102,7 +102,8 @@
 .main-image{
   /* background: url(https://c.ndtvimg.com/2022-05/7l227qf4_moose-wala_625x300_29_May_22.jpg) no-repeat ; */
   /* background: url(https://www.bing.com/images/blob?bcid=S5G7vYC74VUEqxcxoNWLuD9SqbotqVTdP7o) no-repeat ; */
-  background: url(https://www.bing.com/images/blob?bcid=SxeSPDYSQ1UESLH9uJoSiSLRB0hZ.....3k) no-repeat ;
+  /* background: url(https://www.bing.com/images/blob?bcid=SxeSPDYSQ1UESLH9uJoSiSLRB0hZ.....3k) no-repeat ; */
+  background: url(./images/AliyaRenbir.jpg) no-repeat ;
   background-size: 90%;
   width: 69%;
   min-width: 400px;
